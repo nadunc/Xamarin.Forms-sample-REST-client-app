@@ -92,8 +92,7 @@ namespace EAD_Posts_App
                 
 
             }
-
-            // Clear selection
+            
             CommentsListView.SelectedItem = null;
         }
     }

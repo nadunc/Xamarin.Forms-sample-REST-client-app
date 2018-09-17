@@ -57,8 +57,7 @@ namespace EAD_Posts_App
                 Navigation.PushAsync(commentsListPage);
 
             }
-
-            // Clear selection
+            
             PostsListView.SelectedItem = null;
         }
     }
